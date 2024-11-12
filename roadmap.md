@@ -1,7 +1,7 @@
 # Project Roadmap
 
 ## Sprint 1
-- [ ] Create a team repository in ksu-is GitHub organization
+- [x] Create a team repository in ksu-is GitHub organization
 - [ ] Clone relevant project repository (e.g., HabitTracker-Python)
 - [ ] Setup basic project structure and README.md
 - [ ] Add project description and team members to README.md
