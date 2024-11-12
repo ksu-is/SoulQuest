@@ -1,13 +1,13 @@
 # Project Roadmap
 
-## Sprint 1: Initial Setup
+## Sprint 1
 - [ ] Create a team repository in ksu-is GitHub organization
 - [ ] Clone relevant project repository (e.g., HabitTracker-Python)
 - [ ] Setup basic project structure and README.md
 - [ ] Add project description and team members to README.md
 - [ ] Set up project license and make repo public
 
-## Sprint 2: Development and Tracking
+## Sprint 2
 - [ ] Code new features and make at least 6 significant commits per team member
   - Include descriptive commit messages for each update
 - [ ] Track progress in `projectroadmap.md`
@@ -16,7 +16,7 @@
 - [ ] Refine and test the core functionality
 - [ ] Document any issues or improvements in the roadmap
 
-## Sprint 3: Refinement and Communication
+## Sprint 3
 - [ ] Continue coding and refining features from Sprint 2
 - [ ] Add additional scope if the initial project is complete
 - [ ] Create PowerPoint slide introducing the project and upload to D2L
