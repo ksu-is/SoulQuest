@@ -2,10 +2,10 @@
 
 ## Sprint 1
 - [x] Create a team repository in ksu-is GitHub organization
-- [ ] Clone relevant project repository (e.g., HabitTracker-Python)
-- [ ] Setup basic project structure and README.md
-- [ ] Add project description and team members to README.md
-- [ ] Set up project license and make repo public
+- [x] Clone relevant project repository (e.g., HabitTracker-Python)
+- [x] Setup basic project structure and README.md
+- [x] Add project description and team members to README.md
+- [x] Set up project license and make repo public
 
 ## Sprint 2
 - [ ] Code new features and make at least 6 significant commits per team member
