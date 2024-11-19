@@ -8,13 +8,13 @@
 - [x] Set up project license and make repo public
 
 ## Sprint 2
-- [ ] Code new features and make at least 6 significant commits per team member
+- [X] Code new features and make at least 6 significant commits per team member
   - Include descriptive commit messages for each update
-- [ ] Track progress in `projectroadmap.md`
+- [X] Track progress in `projectroadmap.md`
   - Mark tasks as "DONE" when complete
   - Add new tasks as they emerge
-- [ ] Refine and test the core functionality
-- [ ] Document any issues or improvements in the roadmap
+- [X] Refine and test the core functionality
+- [X] Document any issues or improvements in the roadmap
 
 ## Sprint 3
 - [ ] Continue coding and refining features from Sprint 2
